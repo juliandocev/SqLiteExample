@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SqLiteExample</string>
+    <string name="username">Потребителско име</string>
+    <string name="save">Запази</string>
+    <string name="list_of_data">Списък с данни</string>
+    <string name="etAge">Възраст</string>
+    <string name="isActive">Активен</string>
+    <string name="erased_user_toast">Изтрихте потребител</string>
+</resources>
